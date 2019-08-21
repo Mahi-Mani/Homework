@@ -1,0 +1,132 @@
+body{
+    background-color:grey;
+    width:"960px";
+    font-size:"18px";
+}
+#header{
+    height:200%;
+    width:960px;
+    border-width:1px;
+    float:center;
+    margin-left:auto;
+    margin-right:auto;
+    font-family:"Arial";
+    font-size:"18px";
+    color:grey;
+    padding:25px;
+}
+
+#nav{
+    height:200%;
+    width:960px;
+    border-width:1px;
+    float:center;
+    margin-left:auto;
+    margin-right:auto;
+    font-family:"Arial";
+    font-size:"18px";
+    color:grey;
+    padding:25px;
+}
+
+#section{
+    width:500px;
+    height:250px;
+    border-width:1px;
+    float:left;
+    text-align: center;
+    margin-left:250px;
+    margin-right:auto;
+    font-family:"Arial";
+    color:grey;
+    font-size:"18px"
+}
+
+#article{
+    width:400px;
+    height:120px;
+    border-width:1px;
+    float:left;
+    margin-left:25px;
+    margin-right:auto;
+    font-family:"Arial";
+    color:white;
+    font-size:"18px";
+    padding:25px;
+}
+
+h4{
+    vertical-align:super;
+    height:100px;
+}
+
+
+
+#htags{
+    padding:0.025px;
+    width:400px;
+    border-width:1px;
+    float:left;
+    
+    
+    margin-top:1.5%;
+    
+    
+    margin-left:50px;
+    margin-right:auto;
+    margin-bottom:200px;
+    font-family:"Arial";
+    color:grey;
+    font-size:"18px";
+    position:absolute;
+    height:40px;
+}
+
+#ptag{
+    padding:0.025px;
+    width:400px;
+    border-width:1px;
+    float:left;
+    margin-left:50px;
+    margin-right:auto;
+    margin-bottom:200px;
+    font-family:"Arial";
+    color:grey;
+    font-size:"18px";
+    bottom:75px;
+    position:relative;
+    height:40px;
+}
+h3{
+    text-align: center;
+    line-height:20px;
+    
+}
+
+#aside{
+    width:500px;
+    height:250px;
+    border-width:1px;
+    float:right;
+    margin-left:auto;
+    text-align: center;
+    margin-right:250px;
+    font-family:"Arial";
+    color:grey;
+    font-size:"18px"
+}
+
+#footer{
+    position:fixed;
+    bottom:100px;
+    width:960px;
+    border-width:1px;
+    float:bottom;
+    margin-block-end:10px;
+    margin-bottom:20px;
+    margin-left:250px;
+    font-family:"Arial";
+    font-size:"18px";
+    color:grey;
+    padding:25px;
+}
